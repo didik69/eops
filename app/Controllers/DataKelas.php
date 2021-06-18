@@ -80,7 +80,8 @@ class DataKelas extends BaseController
 	}
 
 	public function delete($id){
-		print_r($id);
+	//	print_r($id);
+		
 	}
 
 	//--------------------------------------------------------------------
